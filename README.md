@@ -1,2 +1,3 @@
 # hello-world
-s tr[pdoyptu
+
+This is information about myself to learn about git hub
